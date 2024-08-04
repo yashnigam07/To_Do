@@ -10,10 +10,8 @@ A sleek, modern Todo app built with React, featuring smooth animations, persiste
 - **Toggle Complete:** Mark tasks as completed or incomplete with a single click.
 - **Persistent Storage:** Keeps your tasks saved in local storage even after you close the browser.
 - **Smooth Animations:** Enjoy a visually appealing user experience with smooth transitions and animations.
+- **Responsive Design:** Works perfectly on desktop, tablet, and mobile devices.
 
-## Live Demo
-
-Check out the live demo of the app [here](https://your-live-demo-link.com).
 
 ## Installation
 
